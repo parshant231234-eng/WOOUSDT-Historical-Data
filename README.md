@@ -8,9 +8,9 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Symbol:** `WOOUSDT`
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Months:** `57` months
-- **Total Candles:** `2,476,330` 1-minute candles
-- **Historical Range:** `2022-02-08 06:30:00` to `2026-10-24 23:59:00` (UTC)
+- **Total Months:** `58` months
+- **Total Candles:** `2,496,490` 1-minute candles
+- **Historical Range:** `2022-02-08 06:30:00` to `2026-11-07 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
